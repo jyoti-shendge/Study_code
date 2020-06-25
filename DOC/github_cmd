@@ -1,0 +1,35 @@
+git config --global user.name "jyoti-shendge"
+git config --global user.email "jyoti-shendge@github.com"
+
+cd project
+git init
+==>Initialized empty Git repository in .git/
+
+git add .
+git commit
+git status
+git commit -a
+
+VIEWING PROJECT HISTORY
+    At any point you can view the history of your changes using
+
+           $ git log
+
+       If you also want to see complete diffs at each step, use
+
+           $ git log -p
+
+       Often the overview of the change is useful to get a feel of each step
+
+           $ git log --stat --summary
+
+
+git branch experimental
+git branch
+git checkout experimental
+git merge experimental
+git diff
+gitk
+git branch -d experimental
+
+

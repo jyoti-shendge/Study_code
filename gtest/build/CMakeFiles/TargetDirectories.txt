@@ -1,0 +1,4 @@
+/home/user/Jyoti/gtest/build/CMakeFiles/edit_cache.dir
+/home/user/Jyoti/gtest/build/CMakeFiles/test.dir
+/home/user/Jyoti/gtest/build/CMakeFiles/rebuild_cache.dir
+/home/user/Jyoti/gtest/build/CMakeFiles/runUnitTests.dir
